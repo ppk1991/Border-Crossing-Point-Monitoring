@@ -1,0 +1,5 @@
+{
+  "name": "Borderguard Operational Coordination Center",
+  "description": "A real-time dashboard for Borderguard and Customs officers to monitor lane status and wait times at various Border Crossing Points (BCPs).",
+  "requestFramePermissions": []
+}
